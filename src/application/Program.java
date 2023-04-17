@@ -7,7 +7,7 @@ public class Program {
 
         ChessMatch chessMatch = new ChessMatch();
 
-        Utils.printBoard(chessMatch.getPieces());
+        UI.printBoard(chessMatch.getPieces());
 
     }
 }
