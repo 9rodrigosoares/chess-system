@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5386e210-61f5-440e-8200-36e92d69ef22" name="Changes" comment="chess layer and print board">
-      <change beforePath="$PROJECT_DIR$/src/application/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/application/Program.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/application/Utils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/application/UI.java" afterDir="false" />
+    <list default="true" id="5386e210-61f5-440e-8200-36e92d69ef22" name="Changes" comment="UI refactor">
+      <change afterPath="$PROJECT_DIR$/src/chess/pieces/King.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chess/pieces/Rook.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/boardgame/Board.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/boardgame/Board.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chess/ChessMatch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chess/ChessMatch.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,7 +71,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1681769926605</updated>
-      <workItem from="1681769928655" duration="2046000" />
+      <workItem from="1681769928655" duration="2381000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1681770085005</created>
@@ -92,7 +94,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681771954071</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="UI refactor">
+      <created>1681772006048</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1681772006048</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -112,6 +121,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial commit" />
     <MESSAGE value="chess layer and print board" />
-    <option name="LAST_COMMIT_MESSAGE" value="chess layer and print board" />
+    <MESSAGE value="UI refactor" />
+    <option name="LAST_COMMIT_MESSAGE" value="UI refactor" />
   </component>
 </project>
