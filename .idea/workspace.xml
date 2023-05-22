@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5386e210-61f5-440e-8200-36e92d69ef22" name="Changes" comment="queen">
+    <list default="true" id="5386e210-61f5-440e-8200-36e92d69ef22" name="Changes" comment="special move castling">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/application/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/application/Program.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/chess/ChessMatch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chess/ChessMatch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chess/pieces/King.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chess/pieces/King.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chess/pieces/Pawn.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chess/pieces/Pawn.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,7 +89,7 @@
       <workItem from="1684357778384" duration="249000" />
       <workItem from="1684475103671" duration="1201000" />
       <workItem from="1684564841030" duration="5000" />
-      <workItem from="1684721472920" duration="4026000" />
+      <workItem from="1684721472920" duration="6725000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1681770085005</created>
@@ -181,7 +182,14 @@
       <option name="project" value="LOCAL" />
       <updated>1682526528831</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="special move castling">
+      <created>1684727413002</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1684727413002</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -211,7 +219,8 @@
     <MESSAGE value="bishop" />
     <MESSAGE value="knight" />
     <MESSAGE value="queen" />
-    <option name="LAST_COMMIT_MESSAGE" value="queen" />
+    <MESSAGE value="special move castling" />
+    <option name="LAST_COMMIT_MESSAGE" value="special move castling" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
